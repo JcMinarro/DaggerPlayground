@@ -43,6 +43,7 @@ dependencies {
     implementation "com.android.support.constraint:constraint-layout:$constraint"
 
     annotationProcessor "com.google.dagger:dagger-compiler:$dagger"
+    annotationProcessor "com.google.dagger:dagger-android-processor:$dagger"
     implementation "com.google.dagger:dagger:$dagger"
     implementation "com.google.dagger:dagger-android-support:$dagger"
 
